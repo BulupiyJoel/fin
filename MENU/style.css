@@ -373,4 +373,6 @@ tr{
     .dev p{
         font-size: 1em;
     }
+    .dev{
+        width:100%;
 }
